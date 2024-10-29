@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_PLATFORMIO
+	bool "python-platformio"
+	help
+	  PlatformIO IDE
+
+	  https://platformio.org/

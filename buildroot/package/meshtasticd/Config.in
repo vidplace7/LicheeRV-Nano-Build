@@ -1,0 +1,4 @@
+config BR2_PACKAGE_MESHTASTICD
+	bool "meshtasticd"
+	help
+	  meshtasticd portduino
